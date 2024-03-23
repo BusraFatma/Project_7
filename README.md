@@ -1,1 +1,1 @@
-This is a PLC programming project
+This is a PLC programming project.
