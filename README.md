@@ -2,7 +2,7 @@ This is a PLC programming project.
 
 Project_7
 
-1. Hardware Drivers (Driver Modules)
+__1. Hardware Drivers (Driver Modules)__
 Definition: In PLC systems, hardware drivers are specialized modules used to perform input and output operations. These modules enable the PLC to receive or send digital or analog signals.
 
 Examples of Types:
