@@ -42,7 +42,8 @@ Precision Control: Allows precise control of motor movements, enhancing quality 
 Energy Efficiency: Proper motor control optimizes energy consumption.
 Protection: Protects motors against conditions like overcurrent and voltage fluctuations, extending equipment lifespan.
 
-4. Optical Drivers and Communication Cards
+__4. Optical Drivers and Communication Cards__
+   
 Definition: Drivers that enable PLCs to exchange data over fiber optic networks or other specialized communication paths. These components are used for high-speed and secure data transmission.
 
 Importance:
