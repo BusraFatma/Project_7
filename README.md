@@ -38,9 +38,9 @@ Definition: Electronic devices used to operate motors controlled by PLCs. These 
 
 Importance:
 
-Precision Control: Allows precise control of motor movements, enhancing quality in manufacturing processes.
-Energy Efficiency: Proper motor control optimizes energy consumption.
-Protection: Protects motors against conditions like overcurrent and voltage fluctuations, extending equipment lifespan.
+*Precision Control: Allows precise control of motor movements, enhancing quality in manufacturing processes.*
+*Energy Efficiency: Proper motor control optimizes energy consumption.*
+*Protection: Protects motors against conditions like overcurrent and voltage fluctuations, extending equipment lifespan.*
 
 __4. Optical Drivers and Communication Cards__
    
