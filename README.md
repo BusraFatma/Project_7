@@ -14,9 +14,9 @@ Examples of Types:
 
 Importance:
 
-Flexibility and Compatibility: Works with various types of sensors and actuators, increasing system flexibility.
-Reliability: Using the correct driver modules ensures the system operates accurately and reliably.
-Performance: High-speed and precise signal processing capabilities enhance system performance.
+*Flexibility and Compatibility: Works with various types of sensors and actuators, increasing system flexibility.*
+*Reliability: Using the correct driver modules ensures the system operates accurately and reliably.*
+*Performance: High-speed and precise signal processing capabilities enhance system performance.*
 
 __2. Software Drivers (Communication Drivers)__
    
