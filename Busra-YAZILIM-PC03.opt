@@ -202,18 +202,6 @@
             </Entry>
             <Entry>
               <Key>
-  <Single Type="string">6e3cdd4b-5a33-48f7-9d89-c38d7b76d4bb</Single>
-              </Key>
-              <Value>
-                <Single Type="{54dd0eac-a6d8-46f2-8c27-2f43c7e49861}" Method="IArchivable">
-                  <Single Name="Name" Type="string">6e3cdd4b-5a33-48f7-9d89-c38d7b76d4bb</Single>
-                  <Dictionary Type="System.Collections.Hashtable" Name="SubKeys" />
-                  <Dictionary Type="System.Collections.Hashtable" Name="Values" />
-                </Single>
-              </Value>
-            </Entry>
-            <Entry>
-              <Key>
                 <Single Type="string">d3833a6f-469d-4c84-a2ce-beb98e66226e</Single>
               </Key>
               <Value>
