@@ -3,6 +3,7 @@ This is a PLC programming project.
 Project_7
 
 __1. Hardware Drivers (Driver Modules)__
+
 Definition: In PLC systems, hardware drivers are specialized modules used to perform input and output operations. These modules enable the PLC to receive or send digital or analog signals.
 
 Examples of Types:
@@ -17,7 +18,8 @@ Flexibility and Compatibility: Works with various types of sensors and actuators
 Reliability: Using the correct driver modules ensures the system operates accurately and reliably.
 Performance: High-speed and precise signal processing capabilities enhance system performance.
 
-2. Software Drivers (Communication Drivers)
+__2. Software Drivers (Communication Drivers)__
+   
 Definition: Software drivers are components that enable PLCs to communicate with other devices (e.g., HMIs, computers, other PLCs). These drivers support specific communication protocols.
 
 Example Protocols:
