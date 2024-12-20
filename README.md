@@ -32,7 +32,8 @@ Integration: Ensures seamless communication between different devices and system
 Data Sharing: Enables real-time data exchange for system monitoring and control.
 Remote Access: Facilitates remote monitoring and control applications, simplifying maintenance and management processes.
 
-3. Motor Drivers
+__3. Motor Drivers__
+   
 Definition: Electronic devices used to operate motors controlled by PLCs. These drivers control the motor’s speed, direction, and torque.
 
 Importance:
