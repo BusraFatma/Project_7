@@ -28,9 +28,9 @@ Example Protocols:
 *Serial (RS-232, RS-485): Serial communication methods used for older or specific applications.*
 Importance:
 
-Integration: Ensures seamless communication between different devices and systems.
-Data Sharing: Enables real-time data exchange for system monitoring and control.
-Remote Access: Facilitates remote monitoring and control applications, simplifying maintenance and management processes.
+*Integration: Ensures seamless communication between different devices and systems.*
+*Data Sharing: Enables real-time data exchange for system monitoring and control.*
+*Remote Access: Facilitates remote monitoring and control applications, simplifying maintenance and management processes.*
 
 __3. Motor Drivers__
    
