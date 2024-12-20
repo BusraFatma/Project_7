@@ -24,8 +24,8 @@ Definition: Software drivers are components that enable PLCs to communicate with
 
 Example Protocols:
 
-Ethernet/IP, Profinet, Modbus, Profibus: Commonly used communication protocols in industry.
-Serial (RS-232, RS-485): Serial communication methods used for older or specific applications.
+*Ethernet/IP, Profinet, Modbus, Profibus: Commonly used communication protocols in industry.*
+*Serial (RS-232, RS-485): Serial communication methods used for older or specific applications.*
 Importance:
 
 Integration: Ensures seamless communication between different devices and systems.
